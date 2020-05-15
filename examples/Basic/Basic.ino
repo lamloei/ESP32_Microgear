@@ -6,7 +6,7 @@
 
 const char* ssid     = <WIFI_SSID>;
 const char* password = <WIFI_KEY>;
-
+8
 #define APPID   <APPID>
 #define KEY     <APPKEY>
 #define SECRET  <APPSECRET>
